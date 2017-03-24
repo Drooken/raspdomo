@@ -1,7 +1,0 @@
-<?php
-
-if ($_GET['run']) { 
-echo "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
-}
-
-?>
